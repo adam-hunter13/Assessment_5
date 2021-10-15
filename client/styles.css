@@ -1,0 +1,26 @@
+body{
+    background-image: url("https://i.postimg.cc/L8SQf0FG/matthew-smith-r-FBA42-UFp-Ls-unsplash.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-color: skyblue;
+    margin-top: 750px
+}
+
+button{
+    height: 50px;
+    border-radius: 25px;
+    box-shadow: 10px 10px 8px #888888;
+    background-color: white;
+    color: black;
+    
+}
+
+.container{
+    display: flex;
+    justify-content: center; 
+    align-items: center;
+}
+
+button:hover{
+    cursor: pointer;
+}
